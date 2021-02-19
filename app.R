@@ -3,6 +3,8 @@
 #    http://shiny.rstudio.com/
 #
 
+# Author: Stephen Smith
+
 library(shiny)
 library(pdfetch)
 
